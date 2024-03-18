@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Dino Pedia</string>
+    <string name="info_fruit_icon">foto famili</string>
+    <string name="info_fruit_name">nama famili</string>
+    <string name="info_fruit_desc">deskripsi famili</string>
+    <string name="info_fruit_characteristic">karakteristik Famili</string>
+    <string name="info_fruit_kelompok">kelompok Famili</string>
+    <string name="info_fruit_habitat">habitat famili</string>
+    <string name="info_fruit_makananan">makanan famili</string>
+    <string name="info_fruit_panjang">Panjang famili</string>
+    <string name="info_fruit_tinggi">tinggi famili</string>
+    <string name="info_fruit_bobot">bobot famili</string>
+    <string name="info_fruit_kelemahan">kelemahan famili</string>
+    <string-array name="fruit_name">
+        <item>Saurischia</item>
+        <item>Ornithischia</item>
+        <item>Theropoda</item>
+        <item>Sauropodomorpha</item>
+        <item>Ceratopsia</item>
+        <item>Stegosauria</item>
+        <item>Ankylosauria</item>
+        <item>Pterosauria</item>
+    </string-array>
+    <string-array name="fruit_icon">
+        <item>@drawable/saurischia</item>
+        <item>@drawable/ornithischia</item>
+        <item>@drawable/theropoda</item>
+        <item>@drawable/sauropodomorpha</item>
+        <item>@drawable/ceratopsia</item>
+        <item>@drawable/stegosauria</item>
+        <item>@drawable/ankylosauria</item>
+        <item>@drawable/pterosauri</item>
+    </string-array>
+    <string-array name="fruit_description">
+        <item>
+            Kelompok ini terdiri dari dua subkelompok utama: Theropoda dan Sauropodomorpha. Theropoda terkenal sebagai dinosaurus karnivora yang mencakup predator terkenal seperti Tyrannosaurus rex dan Velociraptor. Mereka memiliki tubuh yang aerodinamis, cakar-cakar kuat, dan biasanya bipedal. Sauropodomorpha, di sisi lain, adalah dinosaurus herbivora yang besar dengan leher panjang dan ekor yang berat seperti Brachiosaurus dan Diplodocus.
+        </item>
+
+        <item>
+            Dinosaurus dalam kelompok ini mayoritas adalah herbivora. Mereka memiliki bentuk tubuh yang berbeda-beda, tetapi ciri khasnya adalah rahang berparuh dan gigi-gigi yang sesuai untuk mengunyah tumbuhan. Contoh dari kelompok ini termasuk Triceratops, Stegosaurus, dan Hadrosaurus.
+        </item>
+
+        <item>
+            Dinosaurus dalam kelompok ini adalah karnivora terkenal. Mereka memiliki cakar yang kuat, gigi tajam, dan tubuh yang aerodinamis. Beberapa yang paling terkenal termasuk Tyrannosaurus rex, Velociraptor, dan Spinosaurus. Mereka seringkali bipedal dan memiliki otot-otot yang kuat.
+        </item>
+
+        <item>
+            Dinosaurus dalam kelompok ini adalah herbivora yang sangat besar dengan leher panjang, ekor yang berat, dan tubuh yang besar. Mereka biasanya quadrupedal dan memiliki gigi-gigi yang cocok untuk mengunyah makanan tumbuhan. Brachiosaurus, Apatosaurus, dan Diplodocus adalah contohnya.
+        </item>
+
+        <item>
+            Dinosaurus dalam kelompok ini memiliki tanduk dan lempeng-keping pada tengkorak mereka. Mereka mayoritas adalah herbivora dan beberapa memiliki bentuk tubuh besar dan berat. Triceratops adalah salah satu yang paling terkenal dari kelompok ini.
+        </item>
+
+        <item>
+            Dinamai dari lempeng-keping pada punggung mereka, stegosauria adalah dinosaurus herbivora dengan punggung yang dilapisi oleh deretan lempeng-keping. Mereka juga memiliki cakar dan ekor bermuncung. Contohnya termasuk Stegosaurus.
+        </item>
+
+        <item>
+            Dinosaurus dalam kelompok ini memiliki tubuh yang dilapisi oleh cangkang tulang dan seringkali memiliki senjata defensif seperti ekor berat bersenjatakan tonjolan atau klub. Mereka mayoritas adalah herbivora. Contohnya termasuk Ankylosaurus.
+        </item>
+
+        <item>
+            Meskipun bukan dinosaurus sejati, pterosauria adalah reptil terbang yang hidup pada masa yang sama dengan dinosaurus. Mereka memiliki sayap membranosa yang menghubungkan antara anggota badan depan dan belakang. Beberapa contoh pterosauria adalah Pteranodon dan Quetzalcoatlus.
+        </item>
+
+    </string-array>
+    <string-array name="fruit_characteristic">
+        <item>Cakar yang kuat, gigi tajam, tubuh aerodinamis, biasanya bipedal.</item>
+        <item>Herbivora dengan rahang berparuh dan gigi yang sesuai untuk mengunyah tumbuhan.</item>
+        <item>Karnivora dengan cakar yang kuat, gigi tajam, tubuh aerodinamis, biasanya bipedal.</item>
+        <item>Herbivora dengan leher panjang, ekor yang berat, dan tubuh yang besar.</item>
+        <item>Tanduk dan lempeng-keping pada tengkorak, herbivora.</item>
+        <item>Lempeng-keping pada punggung, herbivora.</item>
+        <item>Tubuh dilapisi oleh cangkang tulang, senjata defensif seperti ekor berat bersenjatakan tonjolan atau klub, herbivora.</item>
+        <item>Reptil terbang dengan sayap membranosa yang menghubungkan antara anggota badan depan dan belakang.</item>
+    </string-array>
+    <string-array name="fruit_kelompok">
+        <item>Terdiri dari dua subkelompok utama: Theropoda dan Sauropodomorpha.Ornithischia:</item>
+        <item>Kelompok yang mayoritas terdiri dari dinosaurus herbivora.</item>
+        <item>Subkelompok dari Saurischia, terkenal sebagai dinosaurus karnivora.</item>
+        <item>Subkelompok dari Saurischia, terdiri dari dinosaurus herbivora dengan tubuh besar.</item>
+        <item>Kelompok yang memiliki tanduk dan lempeng-keping pada tengkorak mereka.</item>
+        <item>Kelompok dengan lempeng-keping pada punggungnya.</item>
+        <item>Kelompok dengan tubuh yang dilapisi oleh cangkang tulang dan senjata defensif.</item>
+        <item>Meskipun bukan dinosaurus sejati, mereka adalah reptil terbang yang hidup pada masa yang sama dengan dinosaurus.</item>
+    </string-array>
+    <string-array name="fruit_habitat">
+        <item>Beragam habitat, termasuk hutan, padang rumput, dan dataran terbuka.</item>
+        <item>Hidup di berbagai habitat tergantung pada spesiesnya, termasuk hutan hujan tropis, dataran banjir, padang rumput, dan dataran rendah.</item>
+        <item>Beragam habitat, termasuk hutan, padang rumput, dan dataran terbuka.</item>
+        <item>Umumnya hidup di wilayah dataran rendah, dataran banjir, dan hutan-hutan lebat.</item>
+        <item>Umumnya ditemukan di dataran terbuka, padang rumput, dan daerah dengan vegetasi yang subur.</item>
+        <item>Mungkin hidup di hutan-hutan lebat, wilayah pegunungan, atau padang rumput.</item>
+        <item>Biasanya ditemukan di wilayah dataran rendah, dataran banjir, daerah berhutan, dan daerah pesisir.</item>
+        <item>Dapat ditemukan di berbagai habitat, termasuk daratan, pesisir, dan lautan. Mereka sering menghuni wilayah yang dekat dengan air untuk memudahkan dalam mencari makanan.</item>
+    </string-array>
+    <string-array name="fruit_makanan">
+        <item>Karnivora, memakan hewan lain seperti mamalia kecil, reptil, dan dinosaurus lain.</item>
+        <item>Mayoritas adalah herbivora, memakan tumbuhan seperti dedaunan, pucuk-pucuk, dan berbagai jenis tanaman.</item>
+        <item>Karnivora, memakan hewan lain seperti mamalia kecil, reptil, dan dinosaurus lain.</item>
+        <item>Herbivora, biasanya memakan tumbuhan seperti daun, dedaunan, dan pucuk-pucuk.</item>
+        <item>Herbivora, memakan tumbuhan seperti dedaunan, pucuk-pucuk, dan tanaman rendah.</item>
+        <item>Herbivora, memakan dedaunan, pucuk-pucuk, dan tanaman rendah.</item>
+        <item>Herbivora, memakan dedaunan, pucuk-pucuk, dan tanaman rendah. Beberapa mungkin juga mengonsumsi invertebrata kecil.</item>
+        <item>
+            Meskipun bukan dinosaurus sejati, mereka adalah reptil terbang yang kemungkinan besar memakan ikan, invertebrata air, dan mungkin juga memanfaatkan sumber daya yang tersedia di daratan seperti buah-buahan dan serangga.
+        </item>
+    </string-array>
+    <string-array name="fruit_panjang">
+        <item>Panjang tubuh bervariasi tergantung pada spesiesnya. Contohnya, Tyrannosaurus rex bisa mencapai panjang sekitar 12 meter, sementara Velociraptor biasanya sekitar 2 meter panjangnya.</item>
+        <item>Panjang tubuh beragam tergantung pada spesiesnya. Sebagai contoh, Triceratops memiliki panjang sekitar 7-9 meter, sementara Stegosaurus bisa mencapai panjang sekitar 9 meter.</item>
+        <item>Panjang tubuh bervariasi tergantung pada spesiesnya. Contohnya, Tyrannosaurus rex bisa mencapai panjang sekitar 12 meter, sementara Velociraptor biasanya sekitar 2 meter panjangnya.</item>
+        <item>Panjang tubuh dapat bervariasi dari sekitar 4 meter (seperti Mussaurus) hingga lebih dari 30 meter (seperti Argentinosaurus).</item>
+        <item>Panjang tubuh berkisar dari sekitar 2 hingga 9 meter tergantung pada spesiesnya. Triceratops, salah satu yang terbesar, memiliki panjang sekitar 7-9 meter.</item>
+        <item>Panjang tubuh biasanya berkisar antara 4 hingga 9 meter tergantung pada spesiesnya. Sebagai contoh, Stegosaurus biasanya memiliki panjang sekitar 9 meter.</item>
+        <item>Panjang tubuh juga bervariasi antara spesiesnya. Beberapa ankylosaur mungkin memiliki panjang sekitar 4 hingga 9 meter, seperti Ankylosaurus.</item>
+        <item>
+            Panjang tubuh bervariasi tergantung pada spesiesnya. Contohnya, Pteranodon biasanya memiliki rentang sayap sekitar 7 meter, sedangkan Quetzalcoatlus bisa mencapai panjang sayap sekitar 10-11 meter.
+        </item>
+    </string-array>
+    <string-array name="fruit_tinggi">
+        <item>Tingginya berkisar dari sekitar 2 hingga 6 meter tergantung pada spesiesnya.</item>
+        <item>Tingginya berkisar dari sekitar 2 hingga 6 meter tergantung pada spesiesnya.</item>
+        <item>Tingginya berkisar dari sekitar 2 hingga 6 meter tergantung pada spesiesnya.</item>
+        <item>Tingginya bisa mencapai lebih dari 10 meter, tergantung pada spesiesnya.</item>
+        <item>Tingginya berkisar dari sekitar 2 hingga 4 meter tergantung pada spesiesnya.</item>
+        <item>Tingginya berkisar dari sekitar 2 hingga 5 meter tergantung pada spesiesnya.</item>
+        <item>Tingginya berkisar dari sekitar 1 hingga 4 meter tergantung pada spesiesnya.</item>
+        <item>Tingginya berkisar dari sekitar 0.3 hingga 3 meter tergantung pada spesiesnya.</item>
+    </string-array>
+    <string-array name="fruit_bobot">
+        <item>Beratnya bisa mencapai puluhan ton tergantung pada spesiesnya, dengan yang terbesar seperti Argentinosaurus dapat mencapai lebih dari 70 ton.</item>
+        <item>Beratnya bervariasi tergantung pada spesiesnya. Sebagai contoh, Triceratops bisa memiliki bobot sekitar 6 hingga 12 ton.</item>
+        <item>Bobotnya bervariasi tergantung pada spesiesnya. Misalnya, Velociraptor mungkin memiliki bobot sekitar 15 hingga 80 kilogram, sementara Tyrannosaurus rex bisa mencapai beberapa ton.</item>
+        <item>Beratnya bisa mencapai puluhan ton tergantung pada spesiesnya, dengan yang terbesar seperti Argentinosaurus dapat mencapai lebih dari 70 ton.</item>
+        <item>Beratnya bervariasi tergantung pada spesiesnya. Triceratops, sebagai contoh, mungkin memiliki bobot sekitar 6 hingga 12 ton.</item>
+        <item>Bobotnya bervariasi tergantung pada spesiesnya. Sebagai contoh, Stegosaurus bisa memiliki bobot sekitar 2 hingga 5 ton.</item>
+        <item>Beratnya bervariasi tergantung pada spesiesnya. Ankylosaurus, misalnya, mungkin memiliki bobot sekitar 4 hingga 8 ton.</item>
+        <item>Bobotnya bervariasi tergantung pada spesiesnya. Contohnya, Pteranodon mungkin memiliki bobot sekitar 20 hingga 40 kilogram, sementara Quetzalcoatlus bisa mencapai beberapa ratus kilogram</item>
+    </string-array>
+    <string-array name="fruit_kelemahan">
+        <item>Ukuran besar dapat membuatnya sulit bergerak dengan cepat; cakar-cakarnya dapat patah dalam pertempuran.</item>
+        <item>Rentan terhadap serangan predator karena kebanyakan adalah herbivora dengan sedikit perlindungan fisik.</item>
+        <item>Rentan terhadap cedera saat menyerang mangsa yang lebih besar daripada dirinya sendiri; bisa menjadi saingan dalam perburuan sumber daya.</item>
+        <item>Rentan terhadap penyakit dan parasit karena tubuh besar mereka membutuhkan waktu lama untuk pulih dari cedera.</item>
+        <item>Keberatan dan kekakuan tubuh mereka mungkin membuat mereka kurang gesit dalam menghindari predator.</item>
+        <item>Bentuk tubuh dan deretan lempeng-keping di punggung mungkin memberikan perlindungan terhadap predator, tetapi juga membuat mereka kurang gesit dalam bergerak.</item>
+        <item>Mobilitas yang terbatas karena tubuh yang dilapisi cangkang tulang tebal; rentan terhadap serangan predator yang berani.</item>
+        <item>Rentan terhadap predator darat saat mendarat; tergantung pada kondisi cuaca untuk terbang, sehingga rentan terhadap perubahan iklim.</item>
+    </string-array>
+</resources>
